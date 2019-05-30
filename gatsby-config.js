@@ -5,5 +5,11 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  siteMetadata: {
+    title: 'Gatsby Project',
+    author: 'Eli Andersen'
+  },
+  plugins: [
+    'gatsby-plugin-sass'
+  ]
 }
