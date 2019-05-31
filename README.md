@@ -1,1 +1,1 @@
-Gatsby project with the gatsvy hello world starter
+Gatsby project with the gatsby-hello-world starter
