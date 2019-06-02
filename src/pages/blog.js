@@ -16,6 +16,7 @@ const BlogPage = () => {
             fields {
               slug
             }
+            html
           }
         }
       }
