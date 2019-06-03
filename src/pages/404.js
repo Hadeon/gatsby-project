@@ -4,14 +4,14 @@ import Layout from '../components/layout';
 
 import Head from '../components/head';
 
-const AboutPage = () => {
+const NotFound = () => {
   return (
     <Layout>
-      <Head title="About"/>
-      <h1>About Page</h1>
-      <p>Need a developer? <Link to="/contact">Contact Me</Link></p>
+      <Head title="404"/>
+      <h1>Page Not Found</h1>
+      <p><Link to="/">Head Home</Link></p>
     </Layout>
   )
 }
 
-export default AboutPage;
+export default NotFound;

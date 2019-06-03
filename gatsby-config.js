@@ -10,6 +10,7 @@ module.exports = {
     author: 'Eli Andersen'
   },
   plugins: [
+    'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-source-contentful',
       options: {
