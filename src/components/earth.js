@@ -8,7 +8,7 @@ const Earth = () => {
         <span class="moon"></span>
         
         <span class="star star--blue star--1"></span>
-        <span class="star star--2"></span>
+        <span class="star star--blue star--2"></span>
         <span class="star star--red star--3"></span>
         <span class="star star--round star--4"></span>
         
